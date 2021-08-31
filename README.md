@@ -17,6 +17,10 @@ Malicious hackers use steganography for a variety of tasks such as hiding malici
 ## Watch Full Video : 
 [![How do malicious hackers use steganography?](https://img.youtube.com/vi/1F38bjvzkwM/0.jpg)](https://www.youtube.com/watch?v=1F38bjvzkwM)
 
+# Tools Used
+Notepad or Notepad ++
+(You Can Choose any text editor)
+
 # Reference
 - https://portswigger.net/daily-swig/what-is-steganography-a-complete-guide-to-the-ancient-art-of-concealing-messages
 - https://en.wikipedia.org/wiki/Steganography
